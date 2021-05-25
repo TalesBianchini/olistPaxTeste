@@ -1,0 +1,4 @@
+#Tue May 25 18:48:43 BRT 2021
+base.0=/home/bianchini/workplace/olistpax/Olist_Pax/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
